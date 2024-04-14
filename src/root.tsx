@@ -30,6 +30,14 @@ export default function Root() {
             <Routes>
               <FileRoutes />
             </Routes>
+            
+            <iframe 
+              src="https://gamma.app/embed/dx6ffp881ka6p3t" 
+              style={{width: '700px', maxWidth: '100%', height: '450px'}} 
+              allow="fullscreen" 
+              title="le comparateur mariage">
+            </iframe>
+            
           </ErrorBoundary>
         </Suspense>
         <Scripts />
