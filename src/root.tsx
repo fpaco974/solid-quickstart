@@ -22,7 +22,7 @@ export default function Root() {
         <iframe 
           src="https://gamma.app/embed/dx6ffp881ka6p3t" 
           style={{width: '100%', height: '100vh'}} 
-          allow="fullscreen" 
+          allow="fullscreen; display-capture" 
           title="le comparateur mariage">
         </iframe>
         <Scripts />
